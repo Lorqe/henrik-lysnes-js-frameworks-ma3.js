@@ -1,2 +1,2 @@
-# henrik-lysnes-js-frameworks-ma3.js
+# Henrik Lysnes - JS Framework MA 3
 Module Assignment 3 - JS Frameworks
